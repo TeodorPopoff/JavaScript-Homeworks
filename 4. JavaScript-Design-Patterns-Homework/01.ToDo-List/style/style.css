@@ -1,0 +1,37 @@
+#container {
+    border: 2px solid black;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.list {
+    border: 2px solid black;
+    text-align: left;
+    width: 80%;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+.item {
+    display: inline-block;
+    width: 90%;
+    padding-left: 3px;
+    border-bottom: 1px solid #000000;
+}
+
+.checkedItem {
+    background-color: #5fe031;
+}
+
+.list-title {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.add {
+    
+}
